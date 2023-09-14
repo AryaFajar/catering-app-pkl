@@ -1,0 +1,9 @@
+TUGAS BARU PKL
+
+1) Mengaplikasikan figma ke dalam website secara responsive (bisa di mobile)
+2) Membuat Roadmap dan ERD diagram untuk website
+3) Membuat database untuk backend dan data data catering (inc. user, makanan, hari, tanggal)
+4) Untuk backend menggunakan framework laravel (diutamakan cms nya terlebih dahulu)
+5) Untuk front end menggunakan react / blade 
+6) untuk design menggunakan tailwind/bootstrap
+
